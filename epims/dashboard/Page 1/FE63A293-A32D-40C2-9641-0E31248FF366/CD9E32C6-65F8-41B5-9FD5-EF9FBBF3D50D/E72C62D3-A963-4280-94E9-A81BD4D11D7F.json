@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E72C62D3-A963-4280-94E9-A81BD4D11D7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "917222F5-216F-4D91-9E47-AB0D1CBE3208",
+      "overrideName": "A94E7DBE-6FAC-4B98-B38F-47121210C1DC_symbolID",
+      "value": "DCECB7E8-393B-4047-97FE-DBB83316DF89"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E394AFF4-510C-4F4E-A4A0-C133D8BE1AFB",
+      "overrideName": "F9735DF6-B2EC-46F2-AF96-F47958C7EE9E_stringValue",
+      "value": "DUE TODAY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15508E00-E9F1-4081-879E-69B94C0E8BA7",
+  "verticalSpacing": 0
+}

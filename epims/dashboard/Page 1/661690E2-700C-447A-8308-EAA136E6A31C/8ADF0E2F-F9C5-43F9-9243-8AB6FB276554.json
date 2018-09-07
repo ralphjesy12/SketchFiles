@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8ADF0E2F-F9C5-43F9-9243-8AB6FB276554",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 170,
+    "x": 708,
+    "y": 568
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Regular Copy 11",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9B9C85A-BDF1-43C6-9FAB-762630DE6CB6",
+      "overrideName": "FBD90DDD-1324-4A77-BE02-CB74D777CE2D_symbolID",
+      "value": "8A7F282C-012B-492E-9F55-6D629D7893E8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "608D16BF-5B20-431D-A20B-FEC181EC9983",
+      "overrideName": "223026C9-B2CE-46DC-B076-0535C8ECAD99_stringValue",
+      "value": "Add Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9FC3A61-55F7-469E-8D4C-45BCE1C9FF5E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

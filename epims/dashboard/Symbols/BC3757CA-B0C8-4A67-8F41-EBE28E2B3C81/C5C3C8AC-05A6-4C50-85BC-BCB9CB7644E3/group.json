@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C5C3C8AC-05A6-4C50-85BC-BCB9CB7644E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 50,
+    "x": 175,
+    "y": -174
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23F107FB-AB20-4C5E-9197-588689329A8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D4A8F38-70D9-4AAD-9B07-399E3C272E60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C46A6DC5-6BD2-4F97-8E0E-A5715DBE8082"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D3A7422-9A7B-4645-AD47-1B1C6B7C35F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F73CE12D-4302-4D28-984B-9810E8C8A42C"
+    }
+  ],
+  "name": "Swatch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

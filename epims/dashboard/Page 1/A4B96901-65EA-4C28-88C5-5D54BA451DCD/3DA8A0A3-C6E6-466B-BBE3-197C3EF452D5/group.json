@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3DA8A0A3-C6E6-466B-BBE3-197C3EF452D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 570,
+    "x": 150,
+    "y": 210
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "739C9B37-EE5B-4F22-88E0-E2EC938C182B"
+    },
+    {
+      "class": "group",
+      "id": "88EB7E54-E287-4BEA-8B1A-B362427ED16D"
+    },
+    {
+      "class": "text",
+      "id": "69ABAAD4-E937-4C00-8093-E108BDC7E235"
+    },
+    {
+      "class": "text",
+      "id": "568AC24D-E156-47A5-9E74-109BEF048243"
+    },
+    {
+      "class": "text",
+      "id": "C7D9D22B-EDE5-4111-99AE-604FB0F581BC"
+    },
+    {
+      "class": "group",
+      "id": "4AF94D07-6B8E-4A01-A723-D09CF639355B"
+    },
+    {
+      "class": "group",
+      "id": "89C056DA-3087-49DF-9D61-EE6D5B83EAB0"
+    }
+  ],
+  "name": "Login Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
